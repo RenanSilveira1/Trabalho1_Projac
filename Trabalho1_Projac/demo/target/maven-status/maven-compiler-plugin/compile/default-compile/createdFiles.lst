@@ -1,0 +1,12 @@
+com\repositories\TurmaRepository.class
+com\controllers\TurmaController.class
+com\models\Alocacao.class
+com\models\Turma.class
+com\repositories\RecursoRepository.class
+com\controllers\AlocacaoController.class
+com\repositories\AlocacaoRepository.class
+com\controllers\RecursoController.class
+com\models\Disciplina.class
+com\repositories\DisciplinaRepository.class
+com\controllers\DisciplinaController.class
+com\models\Recurso.class
